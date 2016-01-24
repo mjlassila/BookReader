@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-23 18:34+0200\n"
-"PO-Revision-Date: 2016-01-23 21:40+0200\n"
+"PO-Revision-Date: 2016-01-24 17:19+0200\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -42,8 +42,8 @@ msgstr "Järjestä alkuperäisen tiedostonimen mukaan"
 #: config_form.php:34 views/admin/plugins/bookreader-config-form.php:34
 #: views/admin/plugins/bookreader-config-form.php:45
 msgid ""
-"If checked, the viewer will sort images in viewer alphabetically, by "
-"original filename."
+"If checked, the viewer will sort images in viewer alphabetically, by original "
+"filename."
 msgstr "Järjestä aineiston sivut aakkosiin alkuperäisen tiedostonimen mukaan"
 
 #: config_form.php:40 views/admin/plugins/bookreader-config-form.php:42
@@ -296,8 +296,7 @@ msgstr "Sivujen oletusmäärä upotusnäkymässä (1 tai 2)"
 #: views/public/viewer/show.php:152 libraries/BookReaderCustom_OCR.php:358
 #: views/public/viewer/show.php:160 libraries/BookReaderCustom_OCR_Data.php:528
 #: libraries/BookReaderCustom_OCR.php:321 views/public/viewer/show.php:166
-#: libraries/BookReaderCustom_OCR_Data.php:535
-#: libraries/BookReaderCustom_OCR.php:328
+#: libraries/BookReaderCustom_OCR_Data.php:535 libraries/BookReaderCustom_OCR.php:328
 msgid "Page"
 msgstr "Sivu"
 
@@ -314,11 +313,11 @@ msgstr "Ei hakutuloksia."
 #: views/public/viewer/show.php:409 views/public/viewer/show.php:434
 #: views/public/viewer/show.php:442 views/public/viewer/show.php:440
 msgid ""
-"This book hasn't been indexed for searching yet. We've just started indexing "
-"it, so search should be available soon. Please try again later. Thanks!"
+"This book hasn't been indexed for searching yet. We've just started indexing it, "
+"so search should be available soon. Please try again later. Thanks!"
 msgstr ""
-"Kirjaan ei voi tehdä vielä hakuja. Hakuindekin luonti on käynnissä, joten "
-"haku on käytettävissä hetken päästä."
+"Kirjaan ei voi tehdä vielä hakuja. Hakuindekin luonti on käynnissä, joten haku on "
+"käytettävissä hetken päästä."
 
 #: views/public/viewer/show.php:410 views/public/viewer/show.php:435
 #: views/public/viewer/show.php:443 views/public/viewer/show.php:441
@@ -328,13 +327,12 @@ msgstr "Upota aineisto sivulle"
 #: views/public/viewer/show.php:411 views/public/viewer/show.php:436
 #: views/public/viewer/show.php:444 views/public/viewer/show.php:442
 msgid ""
-"The bookreader uses iframes for embedding. It will not work on web hosts "
-"that block iframes. The embed feature has been tested on blogspot.com blogs "
-"as well as self-hosted Wordpress blogs. This feature will NOT work on "
-"wordpress.com blogs."
+"The bookreader uses iframes for embedding. It will not work on web hosts that "
+"block iframes. The embed feature has been tested on blogspot.com blogs as well as "
+"self-hosted Wordpress blogs. This feature will NOT work on wordpress.com blogs."
 msgstr ""
-"Aineiston upottaminen sivulle käyttää iframe-tekniikkaa, joten upottaminen "
-"ei toimi sivustoille jotka estävät iframen käytön. "
+"Aineiston upottaminen sivulle käyttää iframe-tekniikkaa, joten upottaminen ei "
+"toimi sivustoille jotka estävät iframen käytön. "
 
 #: views/public/viewer/show.php:412 views/public/viewer/show.php:437
 #: views/public/viewer/show.php:445 views/public/viewer/show.php:443
@@ -351,11 +349,11 @@ msgstr "Lisää kirjanmerkki"
 #: views/public/viewer/show.php:414 views/public/viewer/show.php:439
 #: views/public/viewer/show.php:447 views/public/viewer/show.php:445
 msgid ""
-"You can add a bookmark to any page in any book. If you elect to make your "
-"bookmark public, other readers will be able to see it."
+"You can add a bookmark to any page in any book. If you elect to make your bookmark "
+"public, other readers will be able to see it."
 msgstr ""
-"Voit lisätä kirjanmerkin mille tahansa kirjan sivulle. Voit halutessasi "
-"tehdä kirjanmerkistä julkisen jolloin muut lukijat näkevät sen myös."
+"Voit lisätä kirjanmerkin mille tahansa kirjan sivulle. Voit halutessasi tehdä "
+"kirjanmerkistä julkisen jolloin muut lukijat näkevät sen myös."
 
 #: views/public/viewer/show.php:415 views/public/viewer/show.php:440
 #: views/public/viewer/show.php:448 views/public/viewer/show.php:446
@@ -363,8 +361,8 @@ msgid ""
 "You must be logged in to your <a href=\"\">Open Library account</a> to add "
 "bookmarks."
 msgstr ""
-"Sinun täytyy olla kirjautunut <a href=\"\">Open Library tilille</a> "
-"lisätäksesi kirjanmerkkejä."
+"Sinun täytyy olla kirjautunut <a href=\"\">Open Library tilille</a> lisätäksesi "
+"kirjanmerkkejä."
 
 #: views/public/viewer/show.php:416 views/public/viewer/show.php:441
 #: views/public/viewer/show.php:449 views/public/viewer/show.php:447
@@ -463,8 +461,8 @@ msgstr "Huomaa:"
 #: views/public/viewer/show.php:435 views/public/viewer/show.php:460
 #: views/public/viewer/show.php:468 views/public/viewer/show.php:466
 msgid ""
-"We've tested EMBED on blogspot.com blogs as well as self-hosted Wordpress "
-"blogs. This feature will NOT work on wordpress.com blogs."
+"We've tested EMBED on blogspot.com blogs as well as self-hosted Wordpress blogs. "
+"This feature will NOT work on wordpress.com blogs."
 msgstr "Upotus ei toimi wordpress.com -blogeissa."
 
 #: views/public/viewer/show.php:436 views/public/viewer/show.php:461
@@ -472,10 +470,8 @@ msgstr "Upotus ei toimi wordpress.com -blogeissa."
 msgid "Finished"
 msgstr "Valmis"
 
-#: libraries/BookReaderCustom_OCR.php:349
-#: libraries/BookReaderCustom_OCR_Data.php:520
-#: libraries/BookReaderCustom_OCR.php:313
-#: libraries/BookReaderCustom_OCR_Data.php:527
+#: libraries/BookReaderCustom_OCR.php:349 libraries/BookReaderCustom_OCR_Data.php:520
+#: libraries/BookReaderCustom_OCR.php:313 libraries/BookReaderCustom_OCR_Data.php:527
 #: libraries/BookReaderCustom_OCR.php:320
 msgid "Blank page"
 msgstr "Tyhjä sivu"
@@ -483,13 +479,12 @@ msgstr "Tyhjä sivu"
 #: views/admin/plugins/bookreader-config-form.php:35
 #: views/admin/plugins/bookreader-config-form.php:46
 msgid ""
-"Note that you can batch reorder files in admin/items/show page. This will "
-"avoid to reorder them each time the item is displayed."
+"Note that you can batch reorder files in admin/items/show page. This will avoid to "
+"reorder them each time the item is displayed."
 msgstr ""
 "Huomaa että tiedostot voi järjestää haluttuu  järjestykseen aineiston "
-"muokkaussivulla. Näin voidaan välttää sivujen automaattinen "
-"uudelleenjärjestäminen tämän valinnan mukaan joka kerta kun aineisto "
-"näytetään."
+"muokkaussivulla. Näin voidaan välttää sivujen automaattinen uudelleenjärjestäminen "
+"tämän valinnan mukaan joka kerta kun aineisto näytetään."
 
 #: views/admin/plugins/bookreader-config-form.php:36
 #: views/admin/plugins/bookreader-config-form.php:47
@@ -510,8 +505,8 @@ msgstr "Järjestä tiedostot alkuperäisen tiedostonimen mukaan"
 
 #: views/admin/forms/bookreader-batch-edit.php:6
 msgid ""
-"By default, leaves (images) are ordered before non-leaves files. You can "
-"order by filename only."
+"By default, leaves (images) are ordered before non-leaves files. You can order by "
+"filename only."
 msgstr ""
 
 #: views/admin/forms/bookreader-batch-edit.php:9
@@ -540,15 +535,14 @@ msgstr "Valmistele ja tallenna ainestot BookReader-lukuohjelmaa varten."
 #: views/admin/forms/bookreader-batch-edit.php:5
 #: views/admin/forms/bookreader-batch-edit.php:4
 msgid ""
-"Save all data needed to display a BookReader in order to avoid to calculate "
-"them each time an item is displayed."
+"Save all data needed to display a BookReader in order to avoid to calculate them "
+"each time an item is displayed."
 msgstr ""
 
 #: views/admin/forms/bookreader-batch-edit.php:37
 #: views/admin/forms/bookreader-batch-edit.php:6
 msgid ""
-"This process can be done only if the custom library has got a function to do "
-"it."
+"This process can be done only if the custom library has got a function to do it."
 msgstr ""
 
 #: views/admin/forms/bookreader-batch-edit.php:40
@@ -594,8 +588,7 @@ msgstr "Upotustilan toiminnot"
 #: views/admin/plugins/bookreader-config-form.php:71
 msgid "Enable all functions in embed mode (0 to disable or 1 to enable.)"
 msgstr ""
-"Salli kaikki toiminnot kun lukuohjelma on upotettuna (0 ei sallittu, 1 "
-"sallittu)."
+"Salli kaikki toiminnot kun lukuohjelma on upotettuna (0 ei sallittu, 1 sallittu)."
 
 #: views/admin/plugins/bookreader-config-form.php:77
 msgid "Class of inline frame"
@@ -624,8 +617,7 @@ msgstr "Sivulle upotetun lukuohjelman korkeus"
 #: views/admin/plugins/bookreader-config-form.php:71
 msgid "Enable all functions in embed mode (0 to disable or 1 to enable)."
 msgstr ""
-"Salli kaikki toiminnot kun lukohjelma on upotettuna (0 ei sallittu, 1 "
-"sallittu)"
+"Salli kaikki toiminnot kun lukohjelma on upotettuna (0 ei sallittu, 1 sallittu)"
 
 #: views/admin/forms/bookreader-batch-edit.php:4
 msgid "BookReader data are automatically refilled with last data."
@@ -634,15 +626,15 @@ msgstr ""
 #: views/admin/forms/bookreader-batch-edit.php:7
 #: views/admin/forms/bookreader-batch-edit.php:5
 msgid ""
-"This is useful for old items only, because the process is launched "
-"automatically after an item is saved."
+"This is useful for old items only, because the process is launched automatically "
+"after an item is saved."
 msgstr ""
 
 #: views/admin/forms/bookreader-batch-edit.php:15
 #: views/admin/forms/bookreader-batch-edit.php:34
 msgid ""
-"By default, leaves (images) are ordered before non-leaves files. You can "
-"order by filename only and mix all files."
+"By default, leaves (images) are ordered before non-leaves files. You can order by "
+"filename only and mix all files."
 msgstr ""
 
 #: views/admin/forms/bookreader-batch-edit.php:16
@@ -656,3 +648,15 @@ msgstr ""
 #: views/admin/forms/bookreader-batch-edit.php:20
 msgid "Order files of each item according to the order of BookReader leaves."
 msgstr ""
+
+#: views/admin/plugins/bookreader-config-form.php
+msgid "Append to \"item show\" page"
+msgstr "Näytä aineistosivulla"
+
+#: views/admin/plugins/bookreader-config-form.php
+msgid "If checked, the viewer will be automatically appended to the items/show page."
+msgstr "Näytä lukuohjelma automaattisesti aineistosivulla."
+
+#: views/admin/plugins/bookreader-config-form.php
+msgid "Sorting by original filename"
+msgstr "Järjestä alkuperäisen tiedostonimen mukaan"
